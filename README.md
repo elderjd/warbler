@@ -18,5 +18,13 @@ Current Features:
   - Frontend:
     - In progress
     
+Setup Instructions:
+  - Ensure you have nodejs & npm installed.
+  - install mongodb (https://docs.mongodb.com/manual/installation/)
+  - launch mongodb server
+  - `git clone https://github.com/johnd9090/warbler.git`
+  - from /warbler/warbler-server
+    - `npm install`
+    - `node index.js`
 
 Shoutout to <a href="https://github.com/Colt">Colt Steele</a> and their Udemy Advanced Web Development bootcamp.
