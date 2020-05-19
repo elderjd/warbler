@@ -22,7 +22,7 @@ Setup Instructions:
   - Ensure you have nodejs & npm installed.
   - install mongodb (https://docs.mongodb.com/manual/installation/)
   - launch mongodb server
-  - `git clone https://github.com/johnd9090/warbler.git`
+  - `git clone https://github.com/elderjd/warbler.git`
   - from /warbler/warbler-server
     - `npm install`
     - `node index.js`
